@@ -4,9 +4,9 @@
 
 &nbsp;<p align="center">
     <ul>
-      <li> <b> Junior research associate</b> at the <a href="http://manu.edu.mk/en/">Macedonian Academy of Sciences and Arts <b> (MASA) </b></a> </li> 
-      <li> Working under the supervision of mentors <a href="https://scholar.google.com/citations?user=e3fBLUUAAAAJ&hl=en">Professor Dr. Trifce Sandev, Ph.D.</a> and <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Professor Lasko Basnarkov, Ph.D.</a> on a DFG project related to diffusion and random search in heterogeneous media </li>
-    <li> Area of research is statistical physics and applications, stochastic resetting, Monte Carlo simulations for stochastic differential equations, statistical modeling, random walks on complex networks, other stochastic process, Black Scholes option pricing (partly) etc. </li>
+      <li> <b> Junior research associate</b> at the Research Center for Computer Science and Information Technologies at the Macedonian Academy of Sciences and Arts; :octocat: <a href="https://github.com/csit-masa">@cist.masa</a> </li> 
+      <li> Working under the supervision of mentors <a href="https://scholar.google.com/citations?user=e3fBLUUAAAAJ&hl=en">Professor Dr. Trifce Sandev, Ph.D.</a> and <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Professor Lasko Basnarkov, Ph.D.</a> as an associate to DFG project related to diffusion and random search in heterogeneous media </li>
+    <li> Project research area is mainlly statistical physics and applications, stochastic resetting, Monte Carlo simulations for stochastic differential equations, statistical modeling, random walks on complex and multiplex networks, Ornstein-Uhlenbeck process, anomalous definition (combs), etc. </li>
       <li> Currently pursuing a <b>MSc</b> in <i>Statistics for Data Analytics</i> at <a href="https://www.finki.ukim.mk/en">FCSE, Skopje</a> </li>
     <li> Former Water polo player for the Macedonian National team </li>
     <li> Film photography enthusiast </li>
