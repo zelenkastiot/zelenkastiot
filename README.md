@@ -6,7 +6,7 @@
     <ul>
       <li> <b> Junior research associate</b> at the Research Center for Computer Science and Information Technologies at the Macedonian Academy of Sciences and Arts; :octocat: <a href="https://github.com/csit-masa">@cist.masa</a> </li> 
       <li> Working under the supervision of mentors <a href="https://scholar.google.com/citations?user=e3fBLUUAAAAJ&hl=en">Professor Dr. Trifce Sandev, Ph.D.</a> and <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Professor Lasko Basnarkov, Ph.D.</a> as an associate to DFG project related to diffusion and random search in heterogeneous media </li>
-    <li> Project research area is mainlly statistical physics and applications, stochastic resetting, Monte Carlo simulations for stochastic differential equations, statistical modeling, random walks on complex and multiplex networks, Ornstein-Uhlenbeck process, anomalous definition (combs), etc. </li>
+    <li> Project research area is mainlly complex networks, statistical physics and applications, stochastic resetting, Monte Carlo simulations for stochastic differential equations, statistical modeling, random walks on networks, Ornstein-Uhlenbeck process, anomalous definition (combs), econometrics, etc. </li>
       <li> Currently pursuing a <b>MSc</b> in <i>Statistics for Data Analytics</i> at <a href="https://www.finki.ukim.mk/en">FCSE, Skopje</a> </li>
     <li> Former Water polo player for the Macedonian National team </li>
     <li> Film photography enthusiast </li>
@@ -19,7 +19,7 @@
   <td width="50%">
 
 
-&nbsp; <br> [![Spotify](https://zelenkastiot.vercel.app/api/spotify?background_color=6d508c&border_color=ffffff)](https://open.spotify.com/user/31i6q3pm3mzg3zqw6ibtnv4bhr2y)
+&nbsp; <br> [![Spotify](https://zelenkastiot.vercel.app/api/spotify?background_color=531f1f&border_color=ffffff)](https://open.spotify.com/user/31i6q3pm3mzg3zqw6ibtnv4bhr2y)
   
   <br> 
  
