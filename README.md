@@ -24,17 +24,18 @@
   <br> 
  
   <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img alt="Matlab" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" /> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img alt="Matlab" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" /> 
   <img alt="Julia" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" /> 
-  <img alt="Docker" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" **alt="latex" width="40" height="40"/>
-  <img alt="Jupyter" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img alt="R" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>
 
   </p>
 </td>
 </table>
+
 
