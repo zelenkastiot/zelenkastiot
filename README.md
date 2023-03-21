@@ -4,11 +4,10 @@
 
 &nbsp;<p align="center">
     <ul>
-      <li> Currently a <b>DevOps Intern</b> at <a href="https://github.com/LokaHQ">@LokaHQ</a>, and a <b>Junior research associate</b> at the Research Center for Computer Science and Information Technologies at the Macedonian Academy of Sciences and Arts (:octocat:<a href="https://github.com/csit-masa">@cist.masa</a>) </li> 
+      <li> Currently a <b>DevOps Intern</b> at <a href="https://github.com/LokaHQ">@LokaHQ</a> </li> 
       <li> Striving to expand knowledge and expertise in statistics, DevOps, K8s, MLops, GitOps, network science, Big Data, AWS, CI/CD, dynamical systems</li> 
-      <li> At the academy I am working under the supervision of mentors <a href="https://scholar.google.com/citations?user=e3fBLUUAAAAJ&hl=en">Professor Dr. Trifce Sandev, Ph.D.</a> and <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Professor Lasko Basnarkov, Ph.D.</a> as an associate to DFG project related to diffusion and random search in heterogeneous media </li>
-    <li> 🎓 <a href="https://scholar.google.com/citations?user=OIC1DB0AAAAJ&hl=en&oi=ao">Google scholar profile</a>: My research papers are related to complex networks, statistical physics and applications, stochastic resetting, Monte Carlo simulations for stochastic differential equations, statistical modeling, random walks on networks, Ornstein-Uhlenbeck process, anomalous definition (combs), etc. </li>
-    <li> Currently finishing my <b>MSc</b> in <i>Statistics for Data Analytics</i> at <a href="https://www.finki.ukim.mk/en">FCSE, Skopje</a> </li>
+    <li> 🎓 <a href="https://scholar.google.com/citations?user=OIC1DB0AAAAJ&hl=en&oi=ao">Google scholar profile</a>: My research papers are related to complex networks, stochastic resetting, Monte Carlo simulations for stochastic differential equations, statistics </li>
+    <li> Currently finishing my <b>MSc</b> in <i>Statistics for Data Analytics</i> at <a href="https://www.finki.ukim.mk/en">FCSE, Skopje</a> under the supervision of mentor <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Professor Lasko Basnarkov, Ph.D.</a> </li>
     <li> Former Water polo player for the Macedonian National team </li>
     <li> Film photography enthusiast </li>
     </ul>
