@@ -18,7 +18,7 @@
   <td width="50%">
 
 
-&nbsp; <br> [![Spotify](https://zelenkastiot.vercel.app/api/spotify?background_color=534e3c&border_color=ffffff)](https://open.spotify.com/user/31i6q3pm3mzg3zqw6ibtnv4bhr2y)
+&nbsp; <br> [![Spotify](https://zelenkastiot.vercel.app/api/spotify?background_color=0b0d0a&border_color=ffffff)](https://open.spotify.com/user/31i6q3pm3mzg3zqw6ibtnv4bhr2y)
   
   <br> 
  
