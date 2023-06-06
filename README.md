@@ -6,11 +6,11 @@
     <ul>
       <li> <b>Junior DevOps Engineer</b> at <a href="https://github.com/LokaHQ">@LokaHQ</a> </li> 
       <li> 🐙 GitLab profile: [@zelenkastiot](https://gitlab.com/zelenkastiot)</li>
-      <li> Striving to expand knowledge and expertise in statistics, DevOps, K8s, MLops, GitOps, network science, Big Data, AWS, CI/CD, dynamical systems</li> 
+      <li> Striving to expand knowledge and expertise in statistics, DevOps, K8s, MLops, network science, AWS </li> 
     <li> Currently finishing my <b>MSc</b> in <i>Statistics for Data Analytics</i> at <a href="https://www.finki.ukim.mk/en">FCSE, Skopje</a> under the supervision of mentor Professor <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Lasko Basnarkov, Ph.D.</a> </li>
     <li> 🎓 [Google scholar profile](https://scholar.google.com/citations?user=OIC1DB0AAAAJ&hl=en&oi=ao) </li>
     <li> Former Water polo player for the Macedonian National team (2015-2020) 🤽‍♂️🇲🇰 </li>
-    <li> Film photography enthusiast 🎞️ </li>
+    <li> Film photography enthusiast </li>
     </ul>
 
   </p>
