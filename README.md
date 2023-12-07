@@ -4,8 +4,8 @@
 
 &nbsp;<p align="center">
     <ul>
-      <li> <b>Junior DevOps Engineer</b> at <a href="https://github.com/LokaHQ">@LokaHQ</a> </li> 
-      <li> AWS cloud engineering, IaC, statistics/machine learning </li> 
+      <li> <b> DevOps Engineer</b> at <a href="https://github.com/LokaHQ">@LokaHQ</a> </li> 
+      <li> AWS cloud engineering, IaC, statistics/machine learning, GenAI, epidemiology, stochastic process </li> 
     <li> Finishing <b>MSc</b> in <i>Statistics for Data Analytics</i> at <a href="https://www.finki.ukim.mk/en">FCSE, Skopje</a> under the supervision of Professor <a href="https://scholar.google.com/citations?hl=en&user=rE6vD68AAAAJ">Lasko Basnarkov, Ph.D.</a> </li>
     <li> Former Research Associate at the <b>Macedonian Academy of Sciences and Arts (MASA)</b> </li>
     <li> 🐙 [GitLab profile](https://gitlab.com/zelenkastiot)</li>
