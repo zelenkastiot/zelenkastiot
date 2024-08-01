@@ -12,9 +12,6 @@
     <li> 🐙 [GitLab profile](https://gitlab.com/zelenkastiot)</li>
     <li> ☁️ [Credly profile](https://www.credly.com/users/kiril-zelenkovski): <b>11 x AWS certifications</b> 
     </ul>
-  <p align="center">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/270f7106-5b38-4b80-897b-59670d3b33fa">  
-  </p>
   </p>
   </td>
     
