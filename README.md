@@ -10,7 +10,7 @@
     <li> Former Research Associate at the <b>Macedonian Academy of Sciences and Arts (MASA)</b> </li>
     <li> 🎓 [Google scholar](https://scholar.google.com/citations?user=OIC1DB0AAAAJ&hl=en&oi=ao) </li>
     <li> 🐙 [GitLab profile](https://gitlab.com/zelenkastiot)</li>
-    <li> ☁️ [Credly profile](https://www.credly.com/users/kiril-zelenkovski): <b>12 x AWS certifications</b> 
+    <li> ☁️ [Credly profile](https://www.credly.com/users/kiril-zelenkovski): <b>13 x AWS certifications</b> 
     </ul>
   </p>
   </td>
